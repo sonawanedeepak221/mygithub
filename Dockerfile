@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-MAINTENER deepaksonawane208
+MAINTAINER deepaksonawane208
