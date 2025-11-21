@@ -1,7 +1,7 @@
 name: Docker Build and Push (Optimized)
 
 on:
-  workflow_dispatch:   # Manual trigger
+  workflow_dispatch:  #Mannual trigger
 
 jobs:
   build:
